@@ -1,5 +1,5 @@
-﻿{
-  "name": "com.ZAC.SceneManage",
+{
+  "name": "com.zac.scenemanage",
   "version": "1.0.0",
   "displayName": "ZAC的場景管理器",
   "description": "ZAC工具包:切換場景以及退出場景功能",
