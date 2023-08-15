@@ -1,0 +1,12 @@
+﻿{
+  "name": "com.ZAC.SceneManage",
+  "version": "1.0.0",
+  "displayName": "ZAC的場景管理器",
+  "description": "ZAC工具包:切換場景以及退出場景功能",
+  "unity": "2022.3",
+  "author": {
+    "name": "ZAC",
+    "email": "zihaneric@gmail.com",
+    "url": ""
+  }
+}
